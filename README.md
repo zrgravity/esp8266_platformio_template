@@ -1,1 +1,3 @@
-esp8266_platformio_template
+# esp8266_platformio_template
+
+PlatformIO project. Basic template with WifiManager and custom settings.
